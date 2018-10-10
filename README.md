@@ -1,5 +1,4 @@
 # utl_select_variables_whose_names_satisfy_a_regular_expression
-Select variables whose names satisfy a regular expression .
     Select variables whose names satisfy a regular expression                                                                           
                                                                                                                                         
     github                                                                                                                              
@@ -8,6 +7,9 @@ Select variables whose names satisfy a regular expression .
                                                                                                                                         
     Varlist macro by                                                                                                                    
      Author: Søren Lassen, s.lassen@post.tele.dk                                                                                        
+                                                                                                                                        
+    see for macros                                                                                                                      
+    https://github.com/rogerjdeangelis/utl-macros-used-in-many-of-rogerjdeangelis-repositories                                          
                                                                                                                                         
     Related to                                                                                                                          
     https://communities.sas.com/t5/SAS-Programming/why-is-my-drop-not-working/m-p/503030                                                
@@ -70,4 +72,7 @@ Select variables whose names satisfy a regular expression .
       set sashelp.class(keep=name age);                                                                                                 
                                                                                                                                         
     run;quit;                                                                                                                           
+                                                                                                                                        
+                                               
+                                                                                                               
                                              
